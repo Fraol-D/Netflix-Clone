@@ -1,6 +1,6 @@
 .banner {
   margin-top: -10vh;
-  height: 80vh;
+  height: 110vh;
   margin-bottom: -80px;
   color: white;
   object-fit: cover;
@@ -14,7 +14,7 @@
   left: 30px;
   width: 45%;
   text-align: left;
-  z-index: 1; /* Set z-index to ensure the content is above the image */
+  /* z-index: 1; Set z-index to ensure the content is above the image */
 }
 
 .banner__title {
